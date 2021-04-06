@@ -8,6 +8,6 @@ A basic flutter project to view time in different time zones
 2. http - https://pub.dev/packages/http
 3. flutter spinkit - https://pub.dev/packages/flutter_spinkit
 
-### Learnt from 
+## Learnt from 
 
 https://www.youtube.com/c/TheNetNinja/videos
