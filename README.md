@@ -1,4 +1,4 @@
-# World_time
+# World Time App
 
 A basic flutter project to view time in different time zones
 
